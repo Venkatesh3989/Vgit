@@ -3,6 +3,5 @@ GOOD DAY FROM GITHUB
 GOOD DAY FROM GITHUB
 GOOD DAY FROM GITHUB
 Welcome to git
-Welcome to git
 New Line form br2
 New Line from BR---1
